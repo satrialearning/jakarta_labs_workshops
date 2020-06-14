@@ -1,0 +1,6 @@
+{
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.pydocstyleEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Users\\boles\\miniconda3\\envs\\jlml\\python.exe"
+}
